@@ -1,0 +1,20 @@
+
+
+
+.container{
+    border: 5px solid black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    height: 200px;
+    width: 300px;
+    font-size: 15px;
+}
+.choices{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    
+    
+}
